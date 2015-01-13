@@ -1,5 +1,5 @@
 {
-    "name": "armetiz/facebook-bundle",
+    "name": "s7ntech/facebook-bundle",
     "type": "symfony-bundle",
     "description": "A simple bundle to expose Facebook SDK",
     "keywords": ["symfony", "facebook", "SDK"],
@@ -21,7 +21,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "1.x-dev"
+            "dev-master": "*"
         }
     },
     "target-dir": "Armetiz/FacebookBundle"
